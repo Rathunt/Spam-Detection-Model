@@ -9,4 +9,4 @@ The brief of this project was to create an understandable and simple tutorial fo
 # Authors
 Daniel Howes - Entire Project - Rathunt 
 # Acknowledgments 
-Markup : * Bullet list
+* Bullet list
