@@ -9,4 +9,6 @@ The brief of this project was to create an understandable and simple tutorial fo
 # Authors
 Daniel Howes - Entire Project - Rathunt 
 # Acknowledgments 
-* Bullet list
+* NLP with Python for Machine Learning Essentail Training by Derek Jedamski
+* Python for Data Sceince and Machine Learning Bootcamp by Joes Portilla
+* Alastair Hamilton, project consult - kr4in
