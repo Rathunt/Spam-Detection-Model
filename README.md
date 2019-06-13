@@ -11,4 +11,4 @@ Daniel Howes - Entire Project - Rathunt
 # Acknowledgments 
 * NLP with Python for Machine Learning Essentail Training by Derek Jedamski
 * Python for Data Sceince and Machine Learning Bootcamp by Joes Portilla
-* Alastair Hamilton, project consult - kr4in
+* Alastair Hamilton, project consult - @kr4in
