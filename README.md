@@ -5,8 +5,10 @@ A test model to predict spam messages from a dataset of text messages.
 The brief of this project was to create an understandable and simple tutorial for collegues joining Cognitive Sciences to better understand Machine Learning models through a relatable application of Data Science. The notebooks in the project document my own learning as well.
 
 # Prerequisites and Installation
+A full corpora installation of NLTK.
 # Notebook Guide
-# Libraries Used 
+# Libraries Used
+NLTK, pandas, re, scikit learn, string, numpy.
 # Authors
 Daniel Howes - Entire Project - Rathunt 
 # Acknowledgments 
